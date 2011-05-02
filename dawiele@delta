@@ -1,0 +1,24 @@
+ibm3151-25|ibm3152-25:\
+> 	:am:mi:ms:\
+> 	:co#80:li#25:kn#9:\
+> 	:cd=\EJ:ce=\EI:cl=\EH\EJ:cm=\EY%+ %+ :dc=\EQ:dl=\EO:\
+> 	:ho=\EH:k1=\Ea\n:k2=\Eb\n:k3=\Ec\n:k4=\Ed\n:k5=\Ee\n:\
+> 	:k6=\Ef\n:k7=\Eg\n:k8=\Eh\n:k9=\Ei\n:kb=\b:kd=\EB:\
+> 	:kh=\EH:kl=\ED:kr=\EC:ku=\EA:nd=\EC:se=\E4>b:so=\E4!a:\
+> 	:te=\E>A:ti=\E>B:ue=\E4=b:up=\EA:us=\E4"a:bc=\ED:\
+> 	:U8=\E<A:U9=\E<@:\
+> 	:Us=q:Uv=x:Ux=k:Uw=j:Uz=m:Uy=l:Uu=n:Uq=w:Up=v:Ut=t:Ur=u:\
+> 	:Ub=\E4$a:Uc=\E4@:Uf=\E4(a:Ug=\E4@:U6=\E r!! 9"P:U7=\E r!! 9$D:\
+> 	:nl=\EB:ko=le,do,nd,up,dc,dl,cd,ce,ho:
+#
+# Written by Aleksandar Milivojevic, alex@srce.hr
+# 24.09.1994
+#
+#I2|ibm3151|3151|IBM 3151 terminal:\
+#	:am:mi:cr=^M:sf=^J:co#80:li#24:cd=\EJ:ce=\EI:cm=\EY%+\040%+\040:\
+#	:cl=\EH\EJ:dc=\EQ:dl=\EO:do=\EB:le=\ED:mb=\E4$a:md=\E4(a:\
+#	:me=\E4@\E>B:mr=\E4!a:nd=\EC:se=\E4>b:so=\E4!a:ue=\E4=b:up=\EA:\
+#	:us=\E4"a:kb=^H:kd=\EB:kh=\EH:kl=\ED:kr=\EC:ku=\EA:\
+#	:k1=\Ea\r:k2=\Eb\r:k3=\Ec\r:k4=\Ed\r:k5=\Ee\r:\
+#	:k6=\Ef\r:k7=\Eg\r:k8=\Eh\r:k9=\Ei\r:k0=\Ej\r:\
+#	:ti=\E>B:te=\E>B:ms:ho=\EH:bl=^G:al=\EN:ta=^I:
